@@ -1,2 +1,2 @@
-# AUTONOMOUS_-_CONNECTED_VEHICLES_G09
-Repository del team G09 per lo sviluppo e la gestione del codice relativo al corso di Autonomous and Connected Vehicles (a.a. 2025/2026).
+# Project Work Autonomous and Connected Vehicles
+## Università degli Studi di Salerno (UNISA) - Corso di Laurea: Ingegneria Informatica (Magistrale in Intelligenza Artificiale) - Anno Accademico: 2025/2026 
